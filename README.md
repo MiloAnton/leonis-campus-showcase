@@ -1,4 +1,4 @@
-# 🦁 Leonis Campus
+# 🦁 Leonis Campus - WORK IN PROGRESS 🚧⚠️
 
 [![Accéder au site](https://img.shields.io/badge/Voir_le_site-Leonis_Campus-blue?style=for-the-badge)](https://miloanton.github.io/leonis-campus/)
 [![Statut](https://img.shields.io/badge/Statut-Work_in_progress-orange?style=for-the-badge)]()
